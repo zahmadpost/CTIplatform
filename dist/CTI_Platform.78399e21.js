@@ -32276,21 +32276,21 @@ function Overview() {
       display: "flex"
     }
   }, /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/Overview1.png",
+    src: "../../images/Overview1.png",
     className: "leafImage",
     style: {
       float: "left",
       width: "33.3%"
     }
   }), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/Overview2.png",
+    src: "../../images/Overview2.png",
     className: "leafImage",
     style: {
       float: "left",
       width: "33.3%"
     }
   }), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/Overview3.png",
+    src: "../../images/Overview3.png",
     className: "leafImage",
     style: {
       float: "left",
@@ -32318,14 +32318,14 @@ function Trends() {
       display: "flex"
     }
   }, /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/Trends1.png",
+    src: "../../images/Trends1.png",
     className: "leafImage",
     style: {
       float: "left",
       width: "50%"
     }
   }), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/Trends2.png",
+    src: "../../images/Trends2.png",
     className: "leafImage",
     style: {
       float: "left",
@@ -32472,7 +32472,7 @@ function Trojan() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("h2", null, "Stealing Banking Information through Trojan Malware"), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/trojan.png",
+    src: "../../images/trojan.png",
     className: "leafImage",
     style: {
       height: "75%"
@@ -32484,7 +32484,7 @@ function SQL() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("h2", null, "Stealing Customer PII through a SQL Injection"), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/sqlinjection.png",
+    src: "../../images/sqlinjection.png",
     className: "leafImage",
     style: {
       height: "75%"
@@ -32496,7 +32496,7 @@ function DDOS() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("h2", null, "Extortion Through Distributed Denial of Service Attack by Bringing Down Payment Infrastructure"), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/ddos.png",
+    src: "../../images/ddos.png",
     className: "leafImage",
     style: {
       height: "75%"
@@ -32508,7 +32508,7 @@ function IslandHopping() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("h2", null, "Credit Card Theft through Island Hopping"), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/islandhopping.png",
+    src: "../../images/islandhopping.png",
     className: "leafImage",
     style: {
       height: "75%"
@@ -32520,7 +32520,7 @@ function WateringHole() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("h2", null, "Data Breach Event via a Watering Hole Attack"), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/wateringhole.png",
+    src: "../../images/wateringhole.png",
     className: "leafImage",
     style: {
       height: "75%"
@@ -32532,7 +32532,7 @@ function Ransomware() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("h2", null, "Block Transaction System via Ransomware"), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/ransomware.png",
+    src: "../../images/ransomware.png",
     className: "leafImage",
     style: {
       height: "75%"
@@ -32544,7 +32544,7 @@ function ATMSkimmers() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("h2", null, "ATM Skimming Attack"), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/atmskimmers.png",
+    src: "../../images/atmskimmers.png",
     className: "leafImage",
     style: {
       height: "75%"
@@ -32556,7 +32556,7 @@ function Gh0stRAT() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("h2", null, "SWIFT Payment Infrastructure Controlled via Gh0stRAT"), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/ghostrat.png",
+    src: "../../images/ghostrat.png",
     className: "leafImage",
     style: {
       height: "75%"
@@ -32568,7 +32568,7 @@ function Witchcoven() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("h2", null, "Payment Infrastructure Revealed via Witchcoven"), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/witchcoven.png",
+    src: "../../images/witchcoven.png",
     className: "leafImage",
     style: {
       height: "75%"
@@ -32580,7 +32580,7 @@ function APTBackdoor() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("h2", null, "Backdoors Created for APTs to Access CDE"), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/aptbackdoor.png",
+    src: "../../images/aptbackdoor.png",
     className: "leafImage",
     style: {
       height: "75%"
@@ -32592,7 +32592,7 @@ function Lokibot() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("h2", null, "LokiBot for Mobile Application Hijacking"), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/lokibot.png",
+    src: "../../images/lokibot.png",
     className: "leafImage",
     style: {
       height: "75%"
@@ -32604,7 +32604,7 @@ function SocialEngineering() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("h2", null, "Customer Based Phishing Attack (Social Engineering)"), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/socialengineering.png",
+    src: "../../images/socialengineering.png",
     className: "leafImage",
     style: {
       height: "75%"
@@ -32616,7 +32616,7 @@ function DarkVishnya() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("h2", null, "DarkVishnya Attacks"), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/darkvishnya.png",
+    src: "../../images/darkvishnya.png",
     className: "leafImage",
     style: {
       height: "75%"
@@ -32628,7 +32628,7 @@ function InsiderThreat() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("h2", null, "Insider Data Breach for Finanical Gain"), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/insiders.png",
+    src: "../../images/insiders.png",
     className: "leafImage",
     style: {
       height: "75%"
@@ -32640,7 +32640,7 @@ function PowerGhost() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("h2", null, "PowerGhost Malware Attack"), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/powerghost.png",
+    src: "../../images/powerghost.png",
     className: "leafImage",
     style: {
       height: "75%"
@@ -32716,7 +32716,7 @@ function Storage() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/storage.png",
+    src: "../../images/storage.png",
     className: "leafImage",
     style: {
       display: "block",
@@ -32730,7 +32730,7 @@ function SWIFT() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/swift.png",
+    src: "../../images/swift.png",
     className: "leafImage",
     style: {
       float: "left"
@@ -32742,7 +32742,7 @@ function CardholderData() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/cardholderdata.png",
+    src: "../../images/cardholderdata.png",
     className: "leafImage",
     style: {
       float: "left"
@@ -32754,7 +32754,7 @@ function ThirdParty() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/thirdparties.png",
+    src: "../../images/thirdparties.png",
     className: "leafImage",
     style: {
       float: "left"
@@ -32766,7 +32766,7 @@ function Securities() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "leaf"
   }, /*#__PURE__*/_react.default.createElement("img", {
-    src: "/images/securities.png",
+    src: "../../images/securities.png",
     className: "leafImage",
     style: {
       float: "left"

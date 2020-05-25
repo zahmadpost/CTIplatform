@@ -63,7 +63,7 @@ function Storage() {
   return (
     <div className="leaf">
       <img
-        src="/images/storage.png"
+        src="../../images/storage.png"
         className="leafImage"
         style={{ display: "block", marginLeft: "auto", marginRight: "auto" }}
       />
@@ -75,7 +75,7 @@ function SWIFT() {
   return (
     <div className="leaf">
       <img
-        src="/images/swift.png"
+        src="../../images/swift.png"
         className="leafImage"
         style={{ float: "left" }}
       />
@@ -87,7 +87,7 @@ function CardholderData() {
   return (
     <div className="leaf">
       <img
-        src="/images/cardholderdata.png"
+        src="../../images/cardholderdata.png"
         className="leafImage"
         style={{ float: "left" }}
       />
@@ -99,7 +99,7 @@ function ThirdParty() {
   return (
     <div className="leaf">
       <img
-        src="/images/thirdparties.png"
+        src="../../images/thirdparties.png"
         className="leafImage"
         style={{ float: "left" }}
       />
@@ -111,7 +111,7 @@ function Securities() {
   return (
     <div className="leaf">
       <img
-        src="/images/securities.png"
+        src="../../images/securities.png"
         className="leafImage"
         style={{ float: "left" }}
       />

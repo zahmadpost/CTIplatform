@@ -124,7 +124,7 @@ function Trojan() {
     <div className="leaf">
       <h2>Stealing Banking Information through Trojan Malware</h2>
       <img
-        src="/images/trojan.png"
+        src="../../images/trojan.png"
         className="leafImage"
         style={{ height: "75%" }}
       />
@@ -137,7 +137,7 @@ function SQL() {
     <div className="leaf">
       <h2>Stealing Customer PII through a SQL Injection</h2>
       <img
-        src="/images/sqlinjection.png"
+        src="../../images/sqlinjection.png"
         className="leafImage"
         style={{ height: "75%" }}
       />
@@ -150,7 +150,7 @@ function DDOS() {
     <div className="leaf">
       <h2>Extortion Through Distributed Denial of Service Attack by Bringing Down Payment Infrastructure</h2>
       <img
-        src="/images/ddos.png"
+        src="../../images/ddos.png"
         className="leafImage"
         style={{ height: "75%" }}
       />
@@ -163,7 +163,7 @@ function IslandHopping() {
     <div className="leaf">
       <h2>Credit Card Theft through Island Hopping</h2>
       <img
-        src="/images/islandhopping.png"
+        src="../../images/islandhopping.png"
         className="leafImage"
         style={{ height: "75%" }}
       />
@@ -176,7 +176,7 @@ function WateringHole() {
     <div className="leaf">
       <h2>Data Breach Event via a Watering Hole Attack</h2>
       <img
-        src="/images/wateringhole.png"
+        src="../../images/wateringhole.png"
         className="leafImage"
         style={{ height: "75%" }}
       />
@@ -189,7 +189,7 @@ function Ransomware() {
     <div className="leaf">
       <h2>Block Transaction System via Ransomware</h2>
       <img
-        src="/images/ransomware.png"
+        src="../../images/ransomware.png"
         className="leafImage"
         style={{ height: "75%" }}
       />
@@ -202,7 +202,7 @@ function ATMSkimmers() {
     <div className="leaf">
       <h2>ATM Skimming Attack</h2>
       <img
-        src="/images/atmskimmers.png"
+        src="../../images/atmskimmers.png"
         className="leafImage"
         style={{ height: "75%" }}
       />
@@ -215,7 +215,7 @@ function Gh0stRAT() {
     <div className="leaf">
       <h2>SWIFT Payment Infrastructure Controlled via Gh0stRAT</h2>
       <img
-        src="/images/ghostrat.png"
+        src="../../images/ghostrat.png"
         className="leafImage"
         style={{ height: "75%" }}
       />
@@ -228,7 +228,7 @@ function Witchcoven() {
     <div className="leaf">
       <h2>Payment Infrastructure Revealed via Witchcoven</h2>
       <img
-        src="/images/witchcoven.png"
+        src="../../images/witchcoven.png"
         className="leafImage"
         style={{ height: "75%" }}
       />
@@ -241,7 +241,7 @@ function APTBackdoor() {
     <div className="leaf">
       <h2>Backdoors Created for APTs to Access CDE</h2>
       <img
-        src="/images/aptbackdoor.png"
+        src="../../images/aptbackdoor.png"
         className="leafImage"
         style={{ height: "75%" }}
       />
@@ -254,7 +254,7 @@ function Lokibot() {
     <div className="leaf">
       <h2>LokiBot for Mobile Application Hijacking</h2>
       <img
-        src="/images/lokibot.png"
+        src="../../images/lokibot.png"
         className="leafImage"
         style={{ height: "75%" }}
       />
@@ -267,7 +267,7 @@ function SocialEngineering() {
     <div className="leaf">
       <h2>Customer Based Phishing Attack (Social Engineering)</h2>
       <img
-        src="/images/socialengineering.png"
+        src="../../images/socialengineering.png"
         className="leafImage"
         style={{ height: "75%" }}
       />
@@ -280,7 +280,7 @@ function DarkVishnya() {
     <div className="leaf">
       <h2>DarkVishnya Attacks</h2>
       <img
-        src="/images/darkvishnya.png"
+        src="../../images/darkvishnya.png"
         className="leafImage"
         style={{ height: "75%" }}
       />
@@ -293,7 +293,7 @@ function InsiderThreat() {
     <div className="leaf">
       <h2>Insider Data Breach for Finanical Gain</h2>
       <img
-        src="/images/insiders.png"
+        src="../../images/insiders.png"
         className="leafImage"
         style={{ height: "75%" }}
       />
@@ -306,7 +306,7 @@ function PowerGhost() {
     <div className="leaf">
       <h2>PowerGhost Malware Attack</h2>
       <img
-        src="/images/powerghost.png"
+        src="../../images/powerghost.png"
         className="leafImage"
         style={{ height: "75%" }}
       />
