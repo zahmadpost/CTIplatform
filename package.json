@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "parcel-plugin-static-files-copy": "^2.3.1"
+  },
+  "staticFiles": {
+    "staticPath": "public",
+    "watcherGlob": "**"
+  }
+}
